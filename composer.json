@@ -19,7 +19,8 @@
         "symfony/validator": "^4.2",
         "symfony/yaml": "4.2.*",
         "tangoman/csv-reader-bundle": "^1.0",
-        "voku/simple_html_dom": "^4.3"
+        "voku/simple_html_dom": "^4.3",
+	"symfony/web-profiler-bundle": "4.2.*"
     },
     "config": {
         "preferred-install": {
